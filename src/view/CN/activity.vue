@@ -239,11 +239,13 @@ export default {
       }
       //console.log(this.cur);
       this.getActivitys();
+      window.scrollTo(0, 0);
     },
     pageClick: function () {
       this.showLoading = true;
       //console.log(this.cur);
       this.getActivitys();
+      window.scrollTo(0, 0);
     },
   },
   computed: {

@@ -263,10 +263,12 @@ export default {
         this.cur = data;
       }
       this.getProduct();
+      window.scrollTo(0, 0);
     },
     pageClick: function () {
       this.showLoading = true;
       this.getProduct();
+      window.scrollTo(0, 0);
     },
   },
   computed: {

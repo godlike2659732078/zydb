@@ -3738,7 +3738,7 @@ h6 {
 
 .buildify_tm_main_title_holder .title_holder {
   width: 100%;
-  float: left;
+  text-align: center;
   clear: both;
   position: relative;
   padding: 53px 0px 11px 0px;
@@ -3751,7 +3751,7 @@ h6 {
 }
 
 .buildify_tm_main_title_holder .title_holder h3 {
-  font-size: 60px;
+  font-size: 50px;
   line-height: 1;
   letter-spacing: 0px;
   margin: 0px;
@@ -3765,7 +3765,7 @@ h6 {
   width: 100%;
   float: left;
   clear: both;
-  padding-bottom: 88px;
+  padding-bottom: 108px;
   position: relative;
 }
 
